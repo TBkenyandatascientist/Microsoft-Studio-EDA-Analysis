@@ -45,10 +45,15 @@ Seaborn
 
 ## How to Run the Project
 In order to run this project, one can either use:
+
 An installed jupyter notebook.
+
 The online Google Colaboration.
+
 VS Code.
+
 A jupyter notebook created as a learning environment run locally.
+
 Before running the code cells make sure the right python libraries have been installed.
 
 ## Lessons Learned
